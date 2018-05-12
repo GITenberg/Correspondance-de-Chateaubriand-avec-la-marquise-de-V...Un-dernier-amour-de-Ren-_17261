@@ -12,7 +12,7 @@ creator:
     - Chateaubriand, Francois-Rene, vicomte de
     - Chateaubriand, F.-A. de (François-Auguste)
     birthdate: 1768
-    deathdate: &id001 1848
+    deathdate: 1848
     gutenberg_agent_id: '7255'
     url: http://www.gutenberg.org/2009/agents/7255
     wikipedia:
@@ -20,10 +20,12 @@ creator:
     - http://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
   - agent_name: Vichet, Louisa Phillipa Rioufol d'Hautevill, Marquise de
     birthdate: 1779
-    deathdate: *id001
+    deathdate: 1848
     gutenberg_agent_id: '7264'
     url: http://www.gutenberg.org/2009/agents/7264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17261#Correspondance-de-Chateaubriand-avec-la-marquise-de-V...Un-dernier-amour-de-Ren-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2005-12-09'
 gutenberg_type: Text
